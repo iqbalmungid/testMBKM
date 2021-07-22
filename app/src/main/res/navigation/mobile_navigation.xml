@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_hello">
+
+    <fragment
+        android:id="@+id/nav_hello"
+        android:name="com.iqbalmungid.gitsmbkmtest.ui.home.HomeFragment"
+        android:label="@string/menu_hello"
+        tools:layout="@layout/fragment_hello" />
+
+    <fragment
+        android:id="@+id/nav_cek"
+        android:name="com.iqbalmungid.gitsmbkmtest.ui.gallery.GalleryFragment"
+        android:label="@string/menu_cek"
+        tools:layout="@layout/fragment_cek" />
+
+    <fragment
+        android:id="@+id/nav_waktu"
+        android:name="com.iqbalmungid.gitsmbkmtest.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_waktu"
+        tools:layout="@layout/fragment_waktu" />
+    <fragment
+        android:id="@+id/nav_reverse"
+        android:name="com.iqbalmungid.gitsmbkmtest.Reverse"
+        android:label="@string/menu_reverse"
+        tools:layout="@layout/fragment_reverse" />
+    <fragment
+        android:id="@+id/nav_palindrom"
+        android:name="com.iqbalmungid.gitsmbkmtest.Palindrom"
+        android:label="@string/menu_palindrom"
+        tools:layout="@layout/fragment_palindrom" />
+</navigation>

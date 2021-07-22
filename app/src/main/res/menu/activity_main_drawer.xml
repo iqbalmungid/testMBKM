@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_hello"
+            android:icon="@drawable/ic_baseline_hello"
+            android:title="@string/menu_hello" />
+        <item
+            android:id="@+id/nav_cek"
+            android:icon="@drawable/ic_baseline_email"
+            android:title="@string/menu_cek" />
+        <item
+            android:id="@+id/nav_waktu"
+            android:icon="@drawable/ic_baseline_time"
+            android:title="@string/menu_waktu" />
+        <item
+            android:id="@+id/nav_reverse"
+            android:icon="@drawable/ic_baseline_reverse"
+            android:title="@string/menu_reverse" />
+        <item
+            android:id="@+id/nav_palindrom"
+            android:icon="@drawable/ic_baseline_palindrom"
+            android:title="@string/menu_palindrom" />
+    </group>
+</menu>
