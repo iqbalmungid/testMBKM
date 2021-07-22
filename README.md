@@ -1,3 +1,3 @@
 # GitsMBKMTest
 
-![Alt text](https://drive.google.com/file/d/13XOkjgYASexz3is8r_uSX8OvD1SaSoD2/view?usp=sharing "Optional title")
+![Alt text](Capture/Screenshot_2021-07-22-19-16-43-455_com.iqbalmungid.gitsmbkmtest.jpg?raw=true "Optional title")
