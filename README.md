@@ -4,7 +4,9 @@
   NPM : 17111413 <br>
   Email : iqbalthea3@gmail.com <br>
    Sekolah Tinggi Teknologi Bandung <br>
-Untuk Program APK download di : https://drive.google.com/file/d/1bpD69CCo_18AN3-OEsCh5IL8nZr3YmdL/view?usp=sharing</p>
+Untuk Program APK download di : https://drive.google.com/file/d/1bpD69CCo_18AN3-OEsCh5IL8nZr3YmdL/view?usp=sharing<br>
+Besar harapan saya untuk dapat mengikuti program studi independent ini.<br>
+Terimakasih.<br></p>
    <div align="left">
   <h4> Daftar Menu Program </h4>
     <img src="Capture/Screenshot_2021-07-22-19-16-53-340_com.iqbalmungid.gitsmbkmtest.jpg" width="200px"</img>
